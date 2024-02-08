@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './ideia.png';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Se eu fosse fazer o site seria alguma coisa assim.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://soaideia.online"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         Só a ideia - Online
         </a>
       </header>
     </div>

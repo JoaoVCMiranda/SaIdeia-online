@@ -1,5 +1,6 @@
 {
   "name": "saideia-online",
+  "homepage": "https://soaideia.online",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
